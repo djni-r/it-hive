@@ -1,0 +1,6 @@
+C:\Users\Admin\Dropbox\Projects\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\Admin\Dropbox\Projects\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\Admin\Dropbox\Projects\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\Admin\Dropbox\Projects\Stack\Stack\obj\Debug\Stack.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Projects\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\Admin\Dropbox\Projects\Stack\Stack\obj\Debug\Stack.pdb

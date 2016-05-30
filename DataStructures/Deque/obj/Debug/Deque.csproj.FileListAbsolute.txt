@@ -1,0 +1,6 @@
+C:\Users\Admin\Dropbox\Projects\Stack\Deque\bin\Debug\Deque.exe.config
+C:\Users\Admin\Dropbox\Projects\Stack\Deque\bin\Debug\Deque.exe
+C:\Users\Admin\Dropbox\Projects\Stack\Deque\bin\Debug\Deque.pdb
+C:\Users\Admin\Dropbox\Projects\Stack\Deque\obj\Debug\Deque.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Projects\Stack\Deque\obj\Debug\Deque.exe
+C:\Users\Admin\Dropbox\Projects\Stack\Deque\obj\Debug\Deque.pdb

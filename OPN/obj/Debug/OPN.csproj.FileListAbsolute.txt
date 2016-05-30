@@ -1,0 +1,8 @@
+C:\Users\Admin\Dropbox\Projects\Homework\OPN\bin\Debug\OPN.exe.config
+C:\Users\Admin\Dropbox\Projects\Homework\OPN\obj\Debug\OPN.csprojResolveAssemblyReference.cache
+C:\Users\Makary\Dropbox\Projects\Homework\OPN\bin\Debug\OPN.exe.config
+C:\Users\Makary\Dropbox\Projects\Homework\OPN\obj\Debug\OPN.csprojResolveAssemblyReference.cache
+C:\Users\Makary\Dropbox\Projects\Homework\OPN\bin\Debug\OPN.exe
+C:\Users\Makary\Dropbox\Projects\Homework\OPN\bin\Debug\OPN.pdb
+C:\Users\Makary\Dropbox\Projects\Homework\OPN\obj\Debug\OPN.exe
+C:\Users\Makary\Dropbox\Projects\Homework\OPN\obj\Debug\OPN.pdb

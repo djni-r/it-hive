@@ -1,0 +1,6 @@
+C:\Users\Makary\Dropbox\Projects\Homework\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+C:\Users\Makary\Dropbox\Projects\Homework\AnimalFarm\obj\Debug\AnimalFarm.csprojResolveAssemblyReference.cache
+C:\Users\Makary\Dropbox\Projects\Homework\AnimalFarm\bin\Debug\AnimalFarm.exe
+C:\Users\Makary\Dropbox\Projects\Homework\AnimalFarm\bin\Debug\AnimalFarm.pdb
+C:\Users\Makary\Dropbox\Projects\Homework\AnimalFarm\obj\Debug\AnimalFarm.exe
+C:\Users\Makary\Dropbox\Projects\Homework\AnimalFarm\obj\Debug\AnimalFarm.pdb

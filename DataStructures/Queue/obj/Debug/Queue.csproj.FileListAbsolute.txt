@@ -1,0 +1,6 @@
+C:\Users\Admin\Dropbox\Projects\Stack\Queue\bin\Debug\Queue.exe.config
+C:\Users\Admin\Dropbox\Projects\Stack\Queue\bin\Debug\Queue.exe
+C:\Users\Admin\Dropbox\Projects\Stack\Queue\bin\Debug\Queue.pdb
+C:\Users\Admin\Dropbox\Projects\Stack\Queue\obj\Debug\Queue.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Dropbox\Projects\Stack\Queue\obj\Debug\Queue.exe
+C:\Users\Admin\Dropbox\Projects\Stack\Queue\obj\Debug\Queue.pdb

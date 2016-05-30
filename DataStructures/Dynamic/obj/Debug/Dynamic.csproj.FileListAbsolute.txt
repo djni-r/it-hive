@@ -1,0 +1,12 @@
+C:\Users\Admin\Dropbox\Projects\Stack\Dynamic\bin\Debug\Dynamic.exe.config
+C:\Users\Admin\Dropbox\Projects\Stack\Dynamic\bin\Debug\Dynamic.exe
+C:\Users\Admin\Dropbox\Projects\Stack\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\Admin\Dropbox\Projects\Stack\Dynamic\obj\Debug\Dynamic.exe
+C:\Users\Admin\Dropbox\Projects\Stack\Dynamic\obj\Debug\Dynamic.pdb
+C:\Users\Admin\Dropbox\Projects\Stack\Dynamic\obj\Debug\Dynamic.csprojResolveAssemblyReference.cache
+C:\Users\Makary\Dropbox\Projects\Stack\Dynamic\bin\Debug\Dynamic.exe.config
+C:\Users\Makary\Dropbox\Projects\Stack\Dynamic\bin\Debug\Dynamic.exe
+C:\Users\Makary\Dropbox\Projects\Stack\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\Makary\Dropbox\Projects\Stack\Dynamic\obj\Debug\Dynamic.csprojResolveAssemblyReference.cache
+C:\Users\Makary\Dropbox\Projects\Stack\Dynamic\obj\Debug\Dynamic.exe
+C:\Users\Makary\Dropbox\Projects\Stack\Dynamic\obj\Debug\Dynamic.pdb

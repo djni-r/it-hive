@@ -1,0 +1,6 @@
+C:\Users\Makary\Dropbox\Projects\Homework\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Makary\Dropbox\Projects\Homework\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Makary\Dropbox\Projects\Homework\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Makary\Dropbox\Projects\Homework\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Makary\Dropbox\Projects\Homework\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Makary\Dropbox\Projects\Homework\LinkedList\obj\Debug\LinkedList.pdb
